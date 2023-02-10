@@ -43,7 +43,7 @@ export const Presentation = () => {
       <div className="absolute flex flex-col items-center bg-transparent presentation--bottom-divider" />
       <div className="absolute text-center presentation--text">
         <h3 className="font-normal presentation--title">Mis XV</h3>
-        <h1 className="mt-4 presentation--name">Daniela</h1>
+        <h1 className="mt-4 presentation--name">Danielaasdfsadfds</h1>
       </div>
       <div className="absolute text-center presentation--time-left">
         <h3 className="presentation--title">Faltan</h3>
