@@ -1,0 +1,41 @@
+.presentation--top-divider {
+  height: 70%;
+  width: 175%;
+  top: 10%;
+  border-radius: 100% 0 0 0;
+  box-shadow: 0 -40vh 0 0 #ffbabadd;
+}
+
+.presentation--bottom-divider {
+  height: 50%;
+  width: 175%;
+  bottom: 0%;
+  border-radius: 0 0 100% 0;
+  box-shadow: 0 30vh 0 0 #ffbaba;
+}
+
+.presentation--text {
+  top: 5%;
+}
+
+.presentation--title {
+  font-size: 2rem;
+}
+
+.presentation--name {
+  font-size: 2.5rem;
+}
+
+.presentation--time-left {
+  bottom: 18%;
+}
+
+.presentation--timer {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.presentation--arrow {
+  bottom: 5%;
+  width: 5.5rem;
+  height: 5.5rem;
+}

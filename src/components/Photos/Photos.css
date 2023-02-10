@@ -1,0 +1,88 @@
+.photos {
+  background-color: #f2f2f2;
+  color: #252525;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.photos--carousel {
+  margin-top: 1.75rem;
+}
+
+.photos--carousel-item {
+  width: 40%;
+}
+
+.photos--button {
+  background-color: #f08181;
+  border-radius: 3rem;
+  box-shadow: 0 0.25rem 0.25rem #0004;
+  cursor: pointer;
+}
+
+.photos--button:hover {
+  background-color: #f39696;
+}
+
+.photos--arrow {
+  width: 5.5rem;
+  height: 5.5rem;
+}
+
+.custom-shape-divider-bottom-1675983705 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1675983705 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 100px;
+}
+
+.custom-shape-divider-bottom-1675983705 .shape-fill {
+  fill: #ffbaba;
+}
+
+@media screen and (max-width: 503px) {
+  .photos {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+  }
+
+  .photos--carousel-item {
+    width: 80%;
+  }
+}
+
+@media screen and (min-height: 655px) and (min-width: 504px) {
+  .photos--carousel-item {
+    width: 60%;
+  }
+}
+
+@media screen and (min-height: 760px) and (min-width: 504px) {
+  .photos {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+  }
+
+  .photos--carousel-item {
+    width: 80%;
+  }
+}
+
+@media screen and (min-height: 830px) and (min-width: 504px) {
+}
+
+@media screen and (min-height: 960px) and (min-width: 504px) {
+  .photos--carousel {
+    margin-top: 5rem;
+  }
+}
