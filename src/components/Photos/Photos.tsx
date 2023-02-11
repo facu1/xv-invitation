@@ -36,7 +36,7 @@ export const Photos = () => {
         </h2>
         <h2 className="text-2xl">de la fiesta</h2>
         <div className="flex items-center gap-2 mt-6">
-          <h2 className="text-2xl">#Mis15Daniela</h2>
+          <h2 className="text-2xl">#BodaDanielZulema</h2>
           <InstagramIcon className="w-8 h-8" />
         </div>
         <h2 className="py-3 px-6 mt-4 mb-auto text-xl photos--button">

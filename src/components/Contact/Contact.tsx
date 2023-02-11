@@ -9,13 +9,13 @@ export const Contact = () => {
         <h1 className="text-4xl">Contacto</h1>
         <div className="py-3 px-6 text-xl flex items-center gap-2 justify-center contact--button">
           <WhatsappIcon className="w-6 h-6" />
-          <h2>Confirmar a Daniela</h2>
+          <h2>Confirmar a Daniel</h2>
         </div>
         <div className="py-3 px-6 text-xl flex items-center gap-2 justify-center contact--button">
           <WhatsappIcon className="w-6 h-6" />
-          <h2>Confirmar a Mamá</h2>
+          <h2>Confirmar a Zulema</h2>
         </div>
-        <h2 className="text-2xl mt-auto contact--subtitle">¡Te Espero!</h2>
+        <h2 className="text-2xl mt-auto contact--subtitle">¡Te Esperamos!</h2>
         <img
           src={image6}
           alt="Te espero Mis XV Daniela"
@@ -24,22 +24,22 @@ export const Contact = () => {
         <div className="flex flex-col items-center mt-auto">
           <p>Imagenes de muestra de Freepik:</p>
           <p>
-            <a href="https://www.freepik.es/foto-gratis/vista-frontal-nina-sonriente-corona_33754327.htm#&position=9&from_view=collections">
+            <a href="https://www.freepik.es/foto-gratis/hermosa-pareja-mostrando-amor-al-otro_20290933.htm#&position=19&from_view=collections">
               Imagen 1,{' '}
             </a>
-            <a href="https://www.freepik.es/foto-gratis/chica-alto-angulo-vestido-princesa_33754326.htm#&position=8&from_view=collections">
+            <a href="https://www.freepik.es/foto-gratis/hermosa-pareja-pasar-tiempo-juntos_20290956.htm#query=pareja&position=2&from_view=search&track=sph">
               Imagen 2,{' '}
             </a>
-            <a href="https://www.freepik.es/foto-gratis/chica-sonriente-alto-angulo-vestido_33754343.htm#&position=25&from_view=collections">
+            <a href="https://www.freepik.es/foto-gratis/hermosa-pareja-mostrando-amor-al-otro-al-aire-libre_20290942.htm#&position=28&from_view=collections">
               Imagen 3,{' '}
             </a>
-            <a href="https://www.freepik.es/foto-gratis/chica-alto-angulo-posando-flores_33754321.htm#&position=3&from_view=collections">
+            <a href="https://www.freepik.es/foto-gratis/hermosa-pareja-pasar-tiempo-juntos_20290955.htm#&position=41&from_view=collections">
               Imagen 4,{' '}
             </a>
-            <a href="https://www.freepik.es/foto-gratis/vista-frontal-sonriente-gente-posando-juntos_33754337.htm#&position=19&from_view=collections">
+            <a href="https://www.freepik.es/foto-gratis/encantadora-pareja-pasar-tiempo-juntos_20290923.htm#&position=9&from_view=collections">
               Imagen 5,{' '}
             </a>
-            <a href="https://www.freepik.es/foto-gratis/chica-celebrando-su-quinceanera_33756519.htm#page=2&position=10&from_view=collections">
+            <a href="https://www.freepik.es/foto-gratis/hermosa-pareja-mostrando-amor-al-otro_20290931.htm#&position=17&from_view=collections">
               Imagen 6
             </a>
           </p>
