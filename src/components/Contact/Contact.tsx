@@ -19,27 +19,27 @@ export const Contact = () => {
         <img
           src={image6}
           alt="Te espero Mis XV Daniela"
-          className="w-full mt-5 object-cover contact--image"
+          className="w-full mt-5 contact--image"
         />
         <div className="flex flex-col items-center mt-auto">
           <p>Imagenes de muestra de Freepik:</p>
           <p>
-            <a href="https://www.freepik.es/foto-gratis/vista-frontal-nina-sonriente-corona_33754327.htm#&position=9&from_view=collections">
+            <a href="https://www.freepik.es/foto-gratis/retrato-mujer-mayor-cerca_21081216.htm#&position=0&from_view=collections">
               Imagen 1,{' '}
             </a>
-            <a href="https://www.freepik.es/foto-gratis/chica-alto-angulo-vestido-princesa_33754326.htm#&position=8&from_view=collections">
+            <a href="https://www.freepik.es/foto-gratis/retrato-mujer-mayor-cerca_21081220.htm#&position=4&from_view=collections">
               Imagen 2,{' '}
             </a>
-            <a href="https://www.freepik.es/foto-gratis/chica-sonriente-alto-angulo-vestido_33754343.htm#&position=25&from_view=collections">
+            <a href="https://www.freepik.es/foto-gratis/retrato-mujer-mayor-cerca_21081217.htm#&position=1&from_view=collections">
               Imagen 3,{' '}
             </a>
-            <a href="https://www.freepik.es/foto-gratis/chica-alto-angulo-posando-flores_33754321.htm#&position=3&from_view=collections">
+            <a href="https://www.freepik.es/foto-gratis/retrato-mayor_21081231.htm#&position=15&from_view=collections">
               Imagen 4,{' '}
             </a>
-            <a href="https://www.freepik.es/foto-gratis/vista-frontal-sonriente-gente-posando-juntos_33754337.htm#&position=19&from_view=collections">
+            <a href="https://www.freepik.es/foto-gratis/retrato-mujer-mayor-cerca_21081252.htm#&position=35&from_view=collections">
               Imagen 5,{' '}
             </a>
-            <a href="https://www.freepik.es/foto-gratis/chica-celebrando-su-quinceanera_33756519.htm#page=2&position=10&from_view=collections">
+            <a href="https://www.freepik.es/foto-gratis/retrato-mujer-mayor-cerca_21081234.htm#&position=18&from_view=collections">
               Imagen 6
             </a>
           </p>

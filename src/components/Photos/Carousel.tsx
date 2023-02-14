@@ -28,8 +28,8 @@ export default function Carousel() {
         {imagesWithRefs.map(({ img, ref }, i) => (
           <div
             key={img}
-            className={`w-5 h-5 bg-[#BC6565] rounded-full ${
-              curr === i && 'bg-[#252525]'
+            className={`w-5 h-5 rounded-full ${
+              curr === i ? 'bg-[#252525]' : 'bg-[#527aff]'
             }`}
             onClick={() => {
               setCurr(i)

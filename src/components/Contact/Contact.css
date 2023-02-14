@@ -1,11 +1,11 @@
 .contact {
-  background-color: #ffbaba;
+  background-color: #85a1ff;
   padding: 3rem 0rem 1rem;
   color: #252525;
 }
 
 .contact--button {
-  background-color: #f08181;
+  background-color: #527aff;
   border-radius: 3rem;
   box-shadow: 0 0.25rem 0.25rem #0004;
   min-width: 17.25rem;
@@ -14,7 +14,7 @@
 }
 
 .contact--button:hover {
-  background-color: #f39696;
+  background-color: hsl(226, 100%, 56%);
 }
 
 .contact--image {

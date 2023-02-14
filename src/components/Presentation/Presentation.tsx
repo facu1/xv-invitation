@@ -36,13 +36,13 @@ export const Presentation = () => {
     <div className="max-w-2xl mx-auto relative flex flex-col items-center overflow-hidden text-white font-bold">
       <img
         src={image1}
-        alt="Mis XV Daniela"
+        alt="Mis 50 Años Daniela"
         className="h-screen w-full max-w-2xl object-cover"
       />
       <div className="absolute flex flex-col items-center bg-transparent presentation--top-divider" />
       <div className="absolute flex flex-col items-center bg-transparent presentation--bottom-divider" />
       <div className="absolute text-center presentation--text">
-        <h3 className="font-normal presentation--title">Mis XV</h3>
+        <h3 className="font-normal presentation--title">Mis 50 Años</h3>
         <h1 className="mt-4 presentation--name">Daniela</h1>
       </div>
       <div className="absolute text-center presentation--time-left">
