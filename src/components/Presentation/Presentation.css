@@ -3,7 +3,7 @@
   width: 175%;
   top: 10%;
   border-radius: 100% 0 0 0;
-  box-shadow: 0 -40vh 0 0 #ffbabadd;
+  box-shadow: 0 -40vh 0 0 #f5a3a3dd;
 }
 
 .presentation--bottom-divider {
@@ -11,7 +11,7 @@
   width: 175%;
   bottom: 0%;
   border-radius: 0 0 100% 0;
-  box-shadow: 0 30vh 0 0 #ffbaba;
+  box-shadow: 0 30vh 0 0 #f5a3a3;
 }
 
 .presentation--text {

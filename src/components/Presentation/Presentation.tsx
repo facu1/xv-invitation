@@ -33,21 +33,21 @@ export const Presentation = () => {
   }, [])
 
   return (
-    <div className="max-w-2xl mx-auto relative flex flex-col items-center overflow-hidden text-white font-bold">
+    <div className="max-w-2xl mx-auto relative flex flex-col items-center overflow-hidden text-black font-bold">
       <img
         src={image1}
-        alt="Mis XV Daniela"
+        alt="Mi cumpleaños Martín"
         className="h-screen w-full max-w-2xl object-cover"
       />
       <div className="absolute flex flex-col items-center bg-transparent presentation--top-divider" />
       <div className="absolute flex flex-col items-center bg-transparent presentation--bottom-divider" />
-      <div className="absolute text-center presentation--text">
-        <h3 className="font-normal presentation--title">Mis XV</h3>
-        <h1 className="mt-4 presentation--name">Daniela</h1>
+      <div className="absolute text-center text-white presentation--text">
+        <h3 className="font-normal presentation--title">Mi Cumple</h3>
+        <h1 className="mt-4 presentation--name">Martín</h1>
       </div>
-      <div className="absolute text-center presentation--time-left">
+      <div className="absolute text-center bg-white bg-opacity-90 rounded-full p-6 shadow-2xl presentation--time-left">
         <h3 className="presentation--title">Faltan</h3>
-        <div className="grid items-center presentation--timer">
+        <div className="grid items-center  presentation--timer">
           <h2 className="text-4xl mt-6">{daysLeft}</h2>
           <h2 className="text-4xl mt-6">{hoursLeft}</h2>
           <h2 className="text-4xl mt-6">{minutesLeft}</h2>
