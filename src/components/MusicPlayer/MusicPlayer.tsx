@@ -1,5 +1,5 @@
 import { useRef, useState } from 'react'
-import song from '../../assets/audio/xv-song.mp3'
+import song from '../../assets/audio/young-bd-song.mp3'
 import { Speaker } from '../Icons/Speaker'
 import { SpeakerX } from '../Icons/SpeakerX'
 
