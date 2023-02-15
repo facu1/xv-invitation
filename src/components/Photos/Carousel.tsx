@@ -20,7 +20,12 @@ export default function Carousel() {
             key={img}
             className="carousel-item px-4 pt-4 pb-8 bg-white shadow-lg aspect-[3/2] photos--carousel-item"
           >
-            <img ref={ref} src={img} className="object-contain mx-auto" />
+            <img
+              ref={ref}
+              src={img}
+              className="object-contain mx-auto"
+              alt="Mi Cumple Martín"
+            />
           </div>
         ))}
       </div>
