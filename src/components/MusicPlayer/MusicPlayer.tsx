@@ -39,7 +39,7 @@ export const MusicPlayer = () => {
       <input type="checkbox" id="my-modal" className="modal-toggle" />
       <div className={`modal ${modalOpen && 'modal-open'}`}>
         <div className="modal-box">
-          <h3 className="font-bold text-lg">¡Invitación de Mis 50 Años!</h3>
+          <h3 className="font-bold text-lg">¡Invitación de mi Cumpleaños!</h3>
           <div className="modal-action">
             <label
               className="btn"
@@ -49,7 +49,7 @@ export const MusicPlayer = () => {
                 setIsPlaying(true)
               }}
             >
-              Yay!
+              Ver
             </label>
           </div>
         </div>
