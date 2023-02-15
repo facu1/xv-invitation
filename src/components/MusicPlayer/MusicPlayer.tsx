@@ -49,7 +49,7 @@ export const MusicPlayer = () => {
                 setIsPlaying(true)
               }}
             >
-              Yay!
+              Ver
             </label>
           </div>
         </div>
