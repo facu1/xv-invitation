@@ -9,7 +9,7 @@ export const Presentation = () => {
   const [secondsLeft, setSecondsLeft] = useState<number>(0)
 
   useEffect(() => {
-    const countDownDate = new Date('2023-04-04T21:00').getTime()
+    const countDownDate = new Date('2024-04-04T21:00').getTime()
     const intervalId = setInterval(() => {
       const nowDate = new Date().getTime()
       const distance = countDownDate - nowDate
